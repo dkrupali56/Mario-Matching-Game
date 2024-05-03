@@ -22,6 +22,3 @@ Welcome to the Mario Matching Game! This game challenges players to match three 
 - JavaScript
 
 
-## License
-
-### All Right Reserved 
